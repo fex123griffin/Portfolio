@@ -5,7 +5,7 @@
 * {
     padding: 0;
     margin: 0;
-    font-family: Roboto;
+    font-family: Roboto , sans-serif;
     
 }
 
@@ -81,20 +81,24 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     margin-top: 2rem;
     gap: 40px;
     flex-wrap: wrap;
-    padding: 0 9rem;
+    margin: 5rem;
+    
+    
 }
 
 .child3 {
     flex: 1;
     
+    
 
 }
 
 .title {
-    margin: 2rem;
+    margin-bottom: 2rem;
 }
 
 .parent4 {
@@ -138,6 +142,7 @@ a {
 }
 
 .skillspic {
+
     margin-top: 0rem;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -163,4 +168,8 @@ a {
 
 .heading {
     padding-top: 6rem;
+}
+
+h2 {
+    text-align: center;
 }

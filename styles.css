@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
 
 
@@ -15,9 +16,13 @@ body {
 }
 
 h1 {
+    font-family: 'Cedarville Cursive', sans-seriff;
     padding-left: 2rem;
 }
+h2 {
+    font-family: 'Cedarville Cursive', sans-seriff;
 
+}
 .parent {
     display: flex;
     

@@ -1,12 +1,13 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Montserrat:wght@200&display=swap');
 
 
 
 * {
     padding: 0;
     margin: 0;
-    font-family: 'Cedarville Cursive', sans-serif;
+    font-family: Montserrat,sans-serif;
     
 }
 
@@ -16,7 +17,7 @@ body {
 }
 
 h1 {
-    font-family: 'Cedarville Cursive', sans-seriff;
+    
     padding-left: 2rem;
 }
 

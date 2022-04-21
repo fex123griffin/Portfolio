@@ -19,8 +19,15 @@ h1 {
     font-family: 'Cedarville Cursive', sans-seriff;
     padding-left: 2rem;
 }
+
+.logo {
+    font-family: 'Cedarville Cursive', sans-seriff;
+    color: #0047B3;
+}
+
 h2 {
     font-family: 'Cedarville Cursive', sans-seriff;
+    color: #0047B3;
 
 }
 .parent {

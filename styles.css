@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&display=swap');
 
 
 
@@ -14,8 +15,28 @@ body {
     
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    color: #1A5A8F;
+}
+
 h1 {
     padding-left: 2rem;
+    font-family: 'My Soul', cursive;
+    color: #1A5A8F;
+}
+
+h2 {
+    font-family: 'My Soul', cursive;
+    color: #1A5A8F;
+}
+
+.logo {
+    font-family: 'My Soul', cursive;
+    color: #1A5A8F !important;
 }
 
 .parent {
